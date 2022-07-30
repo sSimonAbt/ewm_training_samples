@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Fehler! HU konnte nicht erstellt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Fehler beim instanziieren der Packing Klasse</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>HU existiert noch nicht auf Datenbankebene</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>HU konnte nicht gespeichert werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>HU wurde erfolgreich gespeichert HUIDENT: &amp;1 Lagerplatz:&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>HU existiert auf Datenbankebene</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Fehler! HU konnte nicht gefunden werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Fehler HU konnte nicht bewegt werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Änderungen konnten nicht gespeichert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Fehler HU Daten konnten nicht gefüllt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Fehler! HU oder HU Item konnte nicht gefunden werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Fehler Produkt konnte nicht umgepackt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Es wurde erfolgreich ein Produkt von einer HU in einer andere gepackt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_EWM_MUSTER</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>HU erstellt HUIDENT: &amp;1</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
